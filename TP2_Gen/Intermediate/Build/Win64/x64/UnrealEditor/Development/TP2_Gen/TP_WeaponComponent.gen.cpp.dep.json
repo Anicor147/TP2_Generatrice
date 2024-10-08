@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\unrealeditor\\inc\\tp2_gen\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\x64\\tp2_geneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tp2_gen\\definitions.tp2_gen.h",
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\source\\tp2_gen\\tp_weaponcomponent.h",
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\unrealeditor\\inc\\tp2_gen\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

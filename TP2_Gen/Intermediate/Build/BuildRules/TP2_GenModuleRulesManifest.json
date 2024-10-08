@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UnrealGame\\TP2_Generatrice\\TP2_Gen\\Source\\TP2_Gen\\TP2_Gen.Build.cs",
+		"E:\\UnrealGame\\TP2_Generatrice\\TP2_Gen\\Source\\TP2_Gen.Target.cs",
+		"E:\\UnrealGame\\TP2_Generatrice\\TP2_Gen\\Source\\TP2_GenEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

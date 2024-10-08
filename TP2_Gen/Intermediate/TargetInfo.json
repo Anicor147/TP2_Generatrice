@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TP2_Gen",
+			"Path": "..\\Source\\TP2_Gen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TP2_GenEditor",
+			"Path": "..\\Source\\TP2_GenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

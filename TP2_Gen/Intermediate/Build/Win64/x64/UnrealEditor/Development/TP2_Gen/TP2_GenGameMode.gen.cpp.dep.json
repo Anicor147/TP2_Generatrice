@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\unrealeditor\\inc\\tp2_gen\\uht\\tp2_gengamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\x64\\tp2_geneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tp2_gen\\definitions.tp2_gen.h",
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\source\\tp2_gen\\tp2_gengamemode.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unrealgame\\tp2_generatrice\\tp2_gen\\intermediate\\build\\win64\\unrealeditor\\inc\\tp2_gen\\uht\\tp2_gengamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
