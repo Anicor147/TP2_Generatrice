@@ -7,7 +7,6 @@
 			"files": [
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/arms.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_Player.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_PlayerUI.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armAO.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armColor.uasset",
@@ -19,7 +18,28 @@
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/fpsarms_Skeleton.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BP_PowerGen.uasset",
 				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X3/EZYDDDJ0AG0AU965D2KJ2K.uasset",
-				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BPI_Interaction.uasset"
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BPI_Interaction.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BP_GenBattery.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FV/6533GNQK8QK4BEK94RGM68.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/MAT_Green.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_GenDisplay.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BP_Screwdriver.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/source/Bake.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/1D/JNTYEI8E5YKY1FH8IEYKH8.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/textures/internal_ground_ao_texture.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/textures/Screwdriver_lowpoly_Bake_BaseColor.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/textures/Screwdriver_lowpoly_Bake_Metallic.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/textures/Screwdriver_lowpoly_Bake_Normal.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/textures/Screwdriver_lowpoly_Bake_Roughness.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/source/Screwdriver_lowpoly_Metal_low.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/screwdriver/source/Screwdriver_lowpoly_Plastic_low.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BPI_Detach.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BP_Door.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0X/OUHV35C72JHVO8A3V0A4FO.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/KE/KTQ8BIT8KBS17GWLHW8KEM.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/I5/JMSX6P1BVAV8UPYDG74K2N.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BPI_OpenDoor.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_Player.uasset"
 			]
 		}
 	]
