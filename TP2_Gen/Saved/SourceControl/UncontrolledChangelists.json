@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/arms.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_Player.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/WBP_PlayerUI.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armAO.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armColor.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armnormal.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/textures/armRoughness.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/crosshair186.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/fpsarms.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/fpsarms_PhysicsAsset.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/first-person-arms/source/fpsarms_Skeleton.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BP_PowerGen.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X3/EZYDDDJ0AG0AU965D2KJ2K.uasset",
+				"E:/UnrealGame/TP2_Generatrice/TP2_Gen/Content/Tp2/BPI_Interaction.uasset"
+			]
+		}
+	]
+}
